@@ -1,36 +1,138 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+name: Upptime
+owner: SRESchool
+repo: AllDevopsschool-monitor-upptime
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: AIOps School
+    url: https://aiopsschool.com
+    ssl:
+      enabled: true
+  - name: AI Universe
+    url: https://aiuniverse.xyz
+    ssl:
+      enabled: true
+  - name: Best DevOps
+    url: https://bestdevops.com
+    ssl:
+      enabled: true
+  - name: Cloud Ops Now
+    url: https://cloudopsnow.in
+    ssl:
+      enabled: true
+  - name: XOps School
+    url: https://xopsschool.com
+    ssl:
+      enabled: true
+  - name: Debug School
+    url: https://debug.school
+    ssl:
+      enabled: true
+  - name: DevOps Consulting
+    url: https://devopsconsulting.in
+    ssl:
+      enabled: true
+  - name: DevOps Freelancer
+    url: https://devopsfreelancer.com
+    ssl:
+      enabled: true
+  - name: DevOps School
+    url: https://devopsschool.com
+    ssl:
+      enabled: true
+  - name: DevOps School NL
+    url: https://devopsschool.nl
+    ssl:
+      enabled: true
+  - name: DevOps School JP
+    url: https://devopsschool.jp
+    ssl:
+      enabled: true
+  - name: DevOps School Org
+    url: https://devopsschool.org
+    ssl:
+      enabled: true
+  - name: DevOps School XYZ
+    url: https://devopsschool.xyz
+    ssl:
+      enabled: true
+  - name: DevOps Support
+    url: https://devopssupport.in
+    ssl:
+      enabled: true
+  - name: DevSecOps Now
+    url: https://devsecopsnow.com
+    ssl:
+      enabled: true
+  - name: DevSecOps School
+    url: https://devsecopsschool.com
+    ssl:
+      enabled: true
+  - name: FinOps School
+    url: https://finopsschool.com
+    ssl:
+      enabled: true
+  - name: Free Ebooks
+    url: https://freeebooks.xyz
+    ssl:
+      enabled: true
+  - name: NoOps School
+    url: https://noopsschool.com
+    ssl:
+      enabled: true
+  - name: Quantum Ops School
+    url: https://quantumopsschool.com
+    ssl:
+      enabled: true
+  - name: Quantum Uting
+    url: https://quantumuting.com
+    ssl:
+      enabled: true
+  - name: Robots Ops
+    url: https://robotsops.com
+    ssl:
+      enabled: true
+  - name: SRE School IN
+    url: https://sreschool.in
+    ssl:
+      enabled: true
+  - name: The AIOps
+    url: https://theaiops.com
+    ssl:
+      enabled: true
+  - name: The Data Ops
+    url: https://thedataops.org
+    ssl:
+      enabled: true
+  - name: SRE School
+    url: https://sreschool.com
+    ssl:
+      enabled: true
+  - name: SCM Galaxy
+    url: https://scmgalaxy.com
+    ssl:
+      enabled: true
     port: 80
     check: "tcp-ping"
     ipv6: true
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: null
+  baseUrl: /
+  logoUrl: https://upptime.js.org/img/icon.svg
+  name: All DevOps School Status
+  introTitle: "All DevOps School Uptime and SSL Status"
+  introMessage: This is a status page monitoring uptime and SSL for various DevOps-related websites.
+  
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/SRESchool/AllDevopsschool-monitor-upptime
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
+  updateTemplate: "*/5 * * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
