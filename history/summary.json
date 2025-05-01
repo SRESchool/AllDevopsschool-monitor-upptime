@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 152
+      "2025-05-01": 161
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/xopsschool.com.ico",
     "slug": "x-ops-school",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 152
+      "2025-05-01": 161
     }
   },
   {
@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 152
+      "2025-05-01": 161
     }
   },
   {
@@ -137,18 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsfreelancer.com.ico",
     "slug": "dev-ops-freelancer",
     "status": "up",
-    "uptime": "63.35%",
-    "uptimeDay": "63.35%",
-    "uptimeWeek": "63.35%",
-    "uptimeMonth": "63.35%",
-    "uptimeYear": "63.35%",
+    "uptime": "73.04%",
+    "uptimeDay": "73.04%",
+    "uptimeWeek": "73.04%",
+    "uptimeMonth": "73.04%",
+    "uptimeYear": "73.04%",
     "time": 419,
     "timeDay": 419,
     "timeWeek": 419,
     "timeMonth": 419,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2025-05-01": 55
+      "2025-05-01": 43
     }
   },
   {
@@ -222,7 +222,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 152
+      "2025-05-01": 161
     }
   },
   {
@@ -332,7 +332,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 152
+      "2025-05-01": 161
     }
   },
   {
@@ -424,7 +424,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 152
+      "2025-05-01": 161
     }
   },
   {
@@ -498,7 +498,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 152
+      "2025-05-01": 161
     }
   }
 ]
