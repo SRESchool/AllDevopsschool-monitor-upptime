@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 395,
+      "2025-05-02": 397,
       "2025-05-01": 712
     }
   },
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 395,
+      "2025-05-02": 397,
       "2025-05-01": 712
     }
   },
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 395,
+      "2025-05-02": 397,
       "2025-05-01": 711
     }
   },
@@ -139,19 +139,19 @@
     "url": "https://devopsfreelancer.com",
     "icon": "https://icons.duckduckgo.com/ip3/devopsfreelancer.com.ico",
     "slug": "dev-ops-freelancer",
-    "status": "down",
-    "uptime": "82.81%",
-    "uptimeDay": "82.81%",
-    "uptimeWeek": "82.81%",
-    "uptimeMonth": "82.81%",
-    "uptimeYear": "82.81%",
-    "time": 469,
-    "timeDay": 469,
-    "timeWeek": 469,
-    "timeMonth": 469,
-    "timeYear": 469,
+    "status": "up",
+    "uptime": "82.70%",
+    "uptimeDay": "82.70%",
+    "uptimeWeek": "82.70%",
+    "uptimeMonth": "82.70%",
+    "uptimeYear": "82.70%",
+    "time": 473,
+    "timeDay": 473,
+    "timeWeek": 473,
+    "timeMonth": 473,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2025-05-02": 2,
+      "2025-05-02": 3,
       "2025-05-01": 188
     }
   },
@@ -226,7 +226,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 395,
+      "2025-05-02": 397,
       "2025-05-01": 711
     }
   },
@@ -235,18 +235,20 @@
     "url": "https://devopsschool.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/devopsschool.xyz.ico",
     "slug": "dev-ops-school-xyz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1725,
-    "timeDay": 1725,
-    "timeWeek": 1725,
-    "timeMonth": 1725,
-    "timeYear": 1725,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1709,
+    "timeDay": 1709,
+    "timeWeek": 1709,
+    "timeMonth": 1709,
+    "timeYear": 1709,
+    "dailyMinutesDown": {
+      "2025-05-02": 0
+    }
   },
   {
     "name": "DevOps Support",
@@ -337,7 +339,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 395,
+      "2025-05-02": 397,
       "2025-05-01": 711
     }
   },
@@ -430,7 +432,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 395,
+      "2025-05-02": 397,
       "2025-05-01": 711
     }
   },
@@ -505,7 +507,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 395,
+      "2025-05-02": 397,
       "2025-05-01": 711
     }
   }
