@@ -1,7 +1,7 @@
 url: https://bestdevops.com
-status: up
-code: 200
-responseTime: 13927
-lastUpdated: 2025-05-02T11:42:51.407Z
+status: down
+code: 500
+responseTime: 223
+lastUpdated: 2025-05-02T11:52:33.478Z
 startTime: 2025-05-01T12:08:22.624Z
 generator: Upptime <https://github.com/upptime/upptime>
