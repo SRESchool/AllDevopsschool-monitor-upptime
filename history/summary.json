@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 577,
+      "2025-05-02": 582,
       "2025-05-01": 712
     }
   },
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 577,
+      "2025-05-02": 582,
       "2025-05-01": 712
     }
   },
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 577,
+      "2025-05-02": 582,
       "2025-05-01": 711
     }
   },
@@ -140,18 +140,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsfreelancer.com.ico",
     "slug": "dev-ops-freelancer",
     "status": "up",
-    "uptime": "84.73%",
-    "uptimeDay": "84.73%",
-    "uptimeWeek": "84.73%",
-    "uptimeMonth": "84.73%",
-    "uptimeYear": "84.73%",
+    "uptime": "85.42%",
+    "uptimeDay": "85.42%",
+    "uptimeWeek": "85.42%",
+    "uptimeMonth": "85.42%",
+    "uptimeYear": "85.42%",
     "time": 464,
     "timeDay": 464,
     "timeWeek": 464,
     "timeMonth": 464,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2025-05-02": 8,
       "2025-05-01": 188
     }
   },
@@ -226,7 +225,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 577,
+      "2025-05-02": 582,
       "2025-05-01": 711
     }
   },
@@ -236,18 +235,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsschool.xyz.ico",
     "slug": "dev-ops-school-xyz",
     "status": "down",
-    "uptime": "86.01%",
-    "uptimeDay": "86.01%",
-    "uptimeWeek": "86.01%",
-    "uptimeMonth": "86.01%",
-    "uptimeYear": "86.01%",
+    "uptime": "85.69%",
+    "uptimeDay": "85.69%",
+    "uptimeWeek": "85.69%",
+    "uptimeMonth": "85.69%",
+    "uptimeYear": "85.69%",
     "time": 1676,
     "timeDay": 1676,
     "timeWeek": 1676,
     "timeMonth": 1676,
     "timeYear": 1676,
     "dailyMinutesDown": {
-      "2025-05-02": 180
+      "2025-05-02": 185
     }
   },
   {
@@ -339,7 +338,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 577,
+      "2025-05-02": 582,
       "2025-05-01": 711
     }
   },
@@ -432,7 +431,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 577,
+      "2025-05-02": 582,
       "2025-05-01": 711
     }
   },
@@ -507,7 +506,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-02": 577,
+      "2025-05-02": 582,
       "2025-05-01": 711
     }
   }
