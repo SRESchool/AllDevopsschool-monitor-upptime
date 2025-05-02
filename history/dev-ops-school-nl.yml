@@ -1,7 +1,7 @@
 url: https://devopsschool.nl
-status: up
-code: 200
-responseTime: 7050
-lastUpdated: 2025-05-02T11:43:06.438Z
+status: down
+code: 500
+responseTime: 207
+lastUpdated: 2025-05-02T11:52:41.666Z
 startTime: 2025-05-01T12:08:35.239Z
 generator: Upptime <https://github.com/upptime/upptime>
